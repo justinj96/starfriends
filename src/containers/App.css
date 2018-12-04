@@ -1,0 +1,15 @@
+@font-face {
+font-family: 'STAR';
+font-style: normal;
+font-weight: normal;
+src: url('Starjedi.ttf') format('truetype');
+}
+
+h1 {
+	font-family: 'STAR';
+	font-weight: 200;
+}
+
+.title {
+	font-size: 4rem;
+}
